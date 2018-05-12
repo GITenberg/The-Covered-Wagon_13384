@@ -1,0 +1,36 @@
+_repo: The-Covered-Wagon_13384
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hough, Emerson
+    birthdate: 1857
+    deathdate: 1923
+    gutenberg_agent_id: '1094'
+    url: http://www.gutenberg.org/2009/agents/1094
+    wikipedia: http://en.wikipedia.org/wiki/Emerson_Hough
+description: 'The Covered Wagon tells the epic story of a wagon train on the Oregon
+  Trail. First published in 1922, this historical novel offers something for everyone:
+  action, intrigue, humor, and a classic love triangle. It is based on actual first-handed
+  accounts of the grueling four-month overland journey, featuring cameos by famous
+  frontiersmen Kit carson and Jim Bridger. Both the novel and its film adaptation
+  helped to make the wagon train an unforgettable icon of the Old West.'
+gutenberg_issued: '2004-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13384'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wagon trains -- Fiction'
+- !lcsh 'California -- Gold discoveries -- Fiction'
+- !lcsh 'Overland journeys to the Pacific -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Frontier and pioneer life -- West (U.S.) -- Fiction'
+- !lcsh 'Oregon National Historic Trail -- Fiction'
+title: The Covered Wagon
+url: http://www.gutenberg.org/ebooks/13384
