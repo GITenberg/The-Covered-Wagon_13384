@@ -11,6 +11,7 @@ Title: The Covered Wagon
 Author: Emerson Hough
 
 Release Date: September 6, 2004 [EBook #13384]
+Last Updated: October 9, 2015
 
 Language: English
 
@@ -644,7 +645,7 @@ geography meant more than they do to-day.
 
 "Listen, son," Wingate one time concluded. "All that talk of a railroad
 across this country to Oregon is silly, of course. But it's all going to
-be one country. The talk is that the treaty with Mexico must give us a,
+be one country. The talk is that the treaty with Mexico must give us a
 slice of land from Texas to the Pacific, and a big one; all of it was
 taken for the sake of slavery. Not so Oregon--that's free forever. This
 talk of splitting this country, North and South, don't go with me. The
@@ -1125,7 +1126,7 @@ sight better to tie to than buffalo! You talk like you had to settle
 Oregon!"
 
 "Well, haven't I got to? Somehow it seems a man ain't making up his own
-mind when he moves West Pap moved twice in Kentucky, once in Tennessee,
+mind when he moves West. Pap moved twice in Kentucky, once in Tennessee,
 and then over to Missouri, after you and me was married and moved up
 into Indiana, before we moved over into Illinois. He said to me--and I
 know it for the truth--he couldn't hardly tell who it was or what it was
@@ -1477,7 +1478,7 @@ seein' as hit's about a gal, knuckle an' skull, is that right?"
 He cast a glance around this group of other fighting men of a border
 day. They nodded gravely, but with glittering eyes.
 
-"Well then, gentlemen"--and now he stood free of Woodhull--"ye both give
+"Well then, gentle_men_"--and now he stood free of Woodhull--"ye both give
 word ye'll make no break till we tell ye? I'll say, two-three days out?"
 
 "Suits me," said Woodhull savagely. "I'll break his neck for him."
@@ -2169,7 +2170,7 @@ him toward the wagon train beyond the duelling ground, "this settles
 hit. Us Missoury wagons won't go on under no sech man as Sam Woodhull.
 We didn't no ways eleck him--he was app'inted. Mostly, elected is
 better'n app'inted. An' I seen afore now, no man can hold his place on
-the trail unless'n he's fatten. We'll eleck Will Banion our cap'n, an'
+the trail unless'n he's fitten. We'll eleck Will Banion our cap'n, an'
 you fellers kin go to hell. What us fellers started out to do was to go
 to Oregon."
 
@@ -2184,8 +2185,8 @@ fellers the boat an' all o' Papin's Ferry to git acrost the way you
 want. Thar hain't no manner o' man, outfit, river er redskin that Ole
 Missoury kain't lick, take 'em as they come, them to name the holts an'
 the rules. We done showed you-all that. We're goin' to show you some
-more. So good-by." He held out his hand. "Ye helped see far, an' ye're a
-far man, an' we'll miss ye. Ef ye git in need o' help come to us. Ole
+more. So good-by." He held out his hand. "Ye helped see f'ar, an' ye're a
+f'ar man, an' we'll miss ye. Ef ye git in need o' help come to us. Ole
 Missoury won't need no help."
 
 "Well, Woodhull's one of you Missourians," remarked Price.
@@ -2193,7 +2194,7 @@ Missoury won't need no help."
 "Yes, but he ain't bred true. Major Banion is. Hit was me that made him
 fight knuckle an' skull an' not with weapons. He didn't want to, but I
 had a reason. I'm content an' soothe jest the way she lies. Ef Will
-never sees the gal agin she ain't wuth the seem'.
+never sees the gal agin she ain't wuth the seein'.
 
 "Ye'll find Col. William Banion at the head o' his own train. He's
 fitten, an' he's fout an' proved hit"
@@ -2228,7 +2229,7 @@ to the bacon spider.
 
 "Huh! So do I--me and my bureau and my hens. Yes, after you've fussed
 around a while you men'll maybe come to the same conclusion your head
-cowguard had; you'll be making more boats and doing less swimming. I'm
+cow-guard had; you'll be making more boats and doing less swimming. I'm
 sorry he quit us."
 
 "It's the girl," said her husband sententiously.
@@ -2546,7 +2547,7 @@ WILD FIRE
 
 
 The afternoon wore on, much occupied with duties connected with the sad
-scenes of the: tragedy. No word came of Woodhull, or of two others who
+scenes of the tragedy. No word came of Woodhull, or of two others who
 could not be identified as among the victims at the death camp. No word,
 either, came from the Missourians, and so cowed or dulled were most of
 the men of the caravan that they did not venture far, even to undertake
@@ -3370,7 +3371,7 @@ of me. It would be painful for me to take that work on now."
 "It's painful for us to see our property lost and our families set
 afoot," rejoined Caleb Price. "It's not pleasant for me to do this. But
 it's no question, Major Banion, what you or I find painful or pleasant.
-The question is on the women and children. You know; that very well."
+The question is on the women and children. You know that very well."
 
 "I do know it--yes. But you have other men. Where's Woodhull?"
 
@@ -3700,7 +3701,7 @@ Womern an' children--so many of 'em, so many! I kain't talk about hit!
 Women don't belong out here! An' now here you come bringin' a thousand
 more!
 
-"There's a woman an' a baby layin' dead in oar camp now," he concluded.
+"There's a woman an' a baby layin' dead in our camp now," he concluded.
 "Died last night. The pilgrims is tryin' to make coffins fer 'em out'n
 cottonwood logs."
 
@@ -4092,7 +4093,7 @@ ma'am--hit never does let go."
 
 "How long'll we wait here?" the older woman demanded.
 
-"Anyhow fer two-three days, ma'am. Thar's a lot has got to sort put
+"Anyhow fer two-three days, ma'am. Thar's a lot has got to sort out
 stuff an' throw hit away here. One man has drug a pair o' millstones
 all the way to here from Ohio. He allowed to get rich startin' a
 gris'mill out in Oregon. An' then ther's chairs an' tables, an' God
@@ -4644,7 +4645,7 @@ Jackson hurried and they joined the ends of the two ropes.
 or you'll tear his head off."
 
 The scout's pony, held by the head and backed slowly, squatted to its
-haunches, snorting, but heaving strongly The head of the victim was
+haunches, snorting, but heaving strongly. The head of the victim was
 drawn oddly toward his shoulder by the loop, but slowly, silently, his
 hands clutching at the rope, his body began to rise, to slip forward.
 
@@ -4861,7 +4862,7 @@ the rope, panting.
 
 "Ye'll try him in the camp council, Will?" began Jackson once more.
 "Anyways that? He's a murderer. He tried to kill us both, an' he will
-yit. Boy, ye rid with Doniphan, an' don't know the _ley refugio_ Hasn't
+yit. Boy, ye rid with Doniphan, an' don't know the _ley refugio_. Hasn't
 the prisoner tried to escape? Ain't that old as Mayheeco Veeayho? Take
 this skunk in on a good rope like that? Boy, ye're crazy!"
 
@@ -5150,7 +5151,7 @@ man of another day. He had seen the world change in six short years,
 since the first wagon crossed yonder ridges, where now showed yet one
 more wagon train approaching.
 
-He paid no attention to the debris and discard of this new day which lay
+He paid no attention to the débris and discard of this new day which lay
 all about him as he sat and dreamed of the days of trap and packet. Near
 at hand were pieces of furniture leaning against the walls, not bought
 or sold, but abandoned as useless here at Laramie. Wagon wheels,
@@ -5330,7 +5331,7 @@ shirt open over a naked breast, his young squaw following him.
 "Let me see one o' them damned things!" he was exclaiming. "That's why I
 left home fifty year ago. Pap wanted to make me plow! I ain't seed one
 since, but I'll bet a pony I kin run her right now! Go git yer plow
-things, boys, an' fotch on ary sort of cow critter suits ye, I'll bet I
+things, boys, an' fotch on ary sort of cow critter suits ye. I'll bet I
 kin hook 'em up an' plow with 'em, too, right yere!"
 
 The old gray man at the gate sat and twisted his long curls.
@@ -5386,7 +5387,7 @@ The purple mantle of the mountain twilight was dropping on the hills
 when Bridger and Carson rode out together from the Laramie stockade to
 the Wingate encampment in the valley. The extraordinary capacity of
 Bridger in matters alcoholic left him still in fair possession of his
-faculties; but some new purpose, born of the exaltation of alcohol, now;
+faculties; but some new purpose, born of the exaltation of alcohol, now
 held his mind.
 
 "Let me see that little dingus ye had, Kit," said he--"that piece o'
@@ -5486,7 +5487,7 @@ Yore Eyes. Which, ef ye ask me, is two names right an' fitten, way I
 feel now."
 
 All at once Jim Bridger was all Indian again. He turned and stalked
-a-way. She heard his voice rising in his Indian chant as she turned back
+away. She heard his voice rising in his Indian chant as she turned back
 to her own wagon fire.
 
 But now shouts were arising, cries coming up the line. A general
@@ -6168,10 +6169,10 @@ Independence Rock.
 Here then, a sad-faced girl, true to her promise and true to some
 strange philosophy of her own devising, was to become the wife of a
 suitor whose persistency had brought him little comfort beyond the
-wedding date. All the train knew that Molly Wingate Was to be married
+wedding date. All the train knew that Molly Wingate was to be married
 there to Sam Woodhull, now restored to trust and authority. Some said
 it was a good match, others shook their heads, liking well to see a maid
-either blush or smile in such case as Molly's whereas she did neither.
+either blush or smile in such case as Molly's, whereas she did neither.
 
 At all events, Mrs. Wingate was two days baking cakes at the train
 stops. Friends got together little presents for the bride. Jed, Molly's
@@ -6276,13 +6277,15 @@ how near! But not now--not this way! No! No!"
 we'll have no woman tantrums at this stage! This goes on! They're
 waiting! He's waiting!"
 
-"Let him wait!" cried the girl in sudden resolution. All her soul was in
-the cry, all her outraged, self-punished heart. Her philosophy fell from
-her swiftly at the crucial moment when she was to face the kiss, the
-embrace of another man. The great inarticulate voice of her woman nature
-suddenly sounded, imperative, terrifying, in her own ears--"Oh, Will
-Banion, Will Banion, why did you take away my heart?" And now she had
-been on the point of doing this thing! An act of God had intervened.
+"Let him wait!" cried the girl in sudden resolution.
+
+All her soul was in the cry, all her outraged, self-punished heart. Her
+philosophy fell from her swiftly at the crucial moment when she was to
+face the kiss, the embrace of another man. The great inarticulate voice
+of her woman nature suddenly sounded, imperative, terrifying, in her own
+ears--"Oh, Will Banion, Will Banion, why did you take away my heart?"
+And now she had been on the point of doing this thing! An act of God had
+intervened.
 
 Jesse Wingate nodded to the minister. They drew apart. The holy man
 nodded assent, hurried away--the girl sensed on what errand.
@@ -6788,7 +6791,7 @@ thudding hoofs outside and in, a phase which could last no more than an
 instant. Came the thin crack of a squirrel rifle from the far corner of
 the wagon park. The Crow partisan sat his horse just a moment, the
 expression on his face frozen there, his mouth slowly closing. Then he
-slid off his horse close to the gap, now; piled high with goods and
+slid off his horse close to the gap, now piled high with goods and
 gear.
 
 A boy's high quaver rose.
@@ -6856,7 +6859,7 @@ told him of the near escape of Molly Wingate, though out of courtesy to
 Woodhull, who stood near, they said nothing of the interrupted wedding.
 The old mountain man's face grew yet more stern.
 
-"That gal!" he said. "Her shot by a sneakin' Rapa-hoe? Ain't that a
+"That gal!" he said. "Her shot by a sneakin' Rapahoe? Ain't that a
 shame! But she's not bad--she's comin' through?"
 
 Molly Wingate, who stood ready now with bandages, told him how alike the
@@ -7948,7 +7951,7 @@ wanted so sorry a piece as yourn--kin shoot that clost to the mark an'
 not spill no likker a-tall! An' ye can fill her two-thirds full an' put
 yer thumb in fer the balance ef ye like."
 
-"I'll just bet ye a new mule agin yer pony ye kain't: do nothin' o' the
+"I'll just bet ye a new mule agin yer pony ye kain't do nothin' o' the
 sort!" retorted Bridger.
 
 "All right, I'll show ye. O' course, ye got to hold still."
@@ -8421,7 +8424,7 @@ her again, somewhere, somehow. It said:
      me.
 
      It seems as though time had been invented so that, through all its
-     aeons, our feet might run in search, one for the other--to meet,
+     æons, our feet might run in search, one for the other--to meet,
      where? Well, we did meet--for one instant in the uncounted ages,
      there on the prairie. Well, if ever you do see me again you shall
      say whether I have been, indeed, tried by fire, and whether it has
@@ -8862,7 +8865,7 @@ passing from one to another of the current ditties of the mines. They
 declared in unison, "Old Grimes is dead, that good old man!" Then they
 swung off to yet another classic ballad:
 
-  _There was an old woman who had three, sons--
+  _There was an old woman who had three sons--
     Joshua, James and John!
   Josh got shot, and Jim got drowned,
   And John got lost and never was found,
@@ -9172,7 +9175,7 @@ any more. I tried to marry the man you wanted me to marry. I'm tired.
 I'm going to Oregon--to forget. I'll teach school. I'll never, never
 marry--that's settled at last."
 
-"You got a letter from Sara Woodhull too."
+"You got a letter from Sam Woodhull too."
 
 "Yes, I did."
 
@@ -9298,7 +9301,7 @@ little else but the ford of the Snake, two days beyond the Salmon Falls.
 
 It was morning when the wagons, well drawn together now, at last turned
 down the precipitous decline which took them from the high plateau to
-the water, level. Here a halt was called. Bridger took full charge. The
+the water level. Here a halt was called. Bridger took full charge. The
 formidable enterprise confronting them was one of the real dangers of
 the road.
 
@@ -9408,7 +9411,7 @@ meaningly, in terror--a gruesome thing to hear.
 The leader called to Price's oldest boy, driving Molly's cart, "Tie on
 behind the big wagon with a long rope, an' don't drive in tell you see
 the fust two yoke ahead holdin'. Then they'll drag you through anyhow.
-Hang onto the cart whatever happens, but if you do get,' in, keep
+Hang onto the cart whatever happens, but if you do get in, keep
 upstream of any animile that's swimmin'."
 
 "All set, men? Come ahead!"
@@ -9790,9 +9793,11 @@ She said nothing, for she knew nothing, of a little scene between these
 two as they sat on their little sawn-board porch before their door one
 evening, looking out over the beautiful and varied landscape that lay
 spread before them. Their wheat was in the green now. Their hogs reveled
-in their little clover field. "We've done well, Jesse," at length said
-portly Molly Wingate. "Look at our place! A mile square, for nothing!
-We've done well, Jesse, I'll admit it."
+in their little clover field.
+
+"We've done well, Jesse," at length said portly Molly Wingate. "Look at
+our place! A mile square, for nothing! We've done well, Jesse, I'll
+admit it."
 
 "For what?" answered Jesse Wingate. "What's it for? What has it come to?
 What's it all about?"
@@ -9811,7 +9816,7 @@ KIT CARSON RIDES
 
 
 Following the recession of the snow, men began to push westward up the
-Platte in the great 'spring gold rush of 1849. In the forefront of
+Platte in the great spring gold rush of 1849. In the forefront of
 these, outpacing them in his tireless fashion, now passed westward the
 greatest traveler of his day, the hunter and scout, Kit Carson. The new
 post of Fort Kearny on the Platte; the old one, Fort Laramie in the
@@ -9874,7 +9879,7 @@ to start to-morrow morning. I'll arrange all that with Vasquez."
 "But, M'sieu Kit, I cannot!"
 
 "But you shall, you must, you will! If I had a better man I'd send him,
-but you are to do what Jim wants done.".
+but you are to do what Jim wants done."
 
 "_Mais, oui_, of course."
 
@@ -10628,7 +10633,7 @@ unless you comply with paragraph 1.E.8 or 1.E.9.
 access to or distributing Project Gutenberg-tm electronic works provided
 that
 
-- You pay a royalty fee of 20% of the gross profits you derive from
+-You pay a royalty fee of 20% of the gross profits you derive from
      the use of Project Gutenberg-tm works calculated using the method
      you already use to calculate your applicable taxes.  The fee is
      owed to the owner of the Project Gutenberg-tm trademark, but he
@@ -10641,7 +10646,7 @@ that
      address specified in Section 4, "Information about donations to
      the Project Gutenberg Literary Archive Foundation."
 
-- You provide a full refund of any money paid by a user who notifies
+-You provide a full refund of any money paid by a user who notifies
      you in writing (or by e-mail) within 30 days of receipt that s/he
      does not agree to the terms of the full Project Gutenberg-tm
      License.  You must require such a user to return or
@@ -10649,12 +10654,12 @@ that
      and discontinue all use of and all access to other copies of
      Project Gutenberg-tm works.
 
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
+-You provide, in accordance with paragraph 1.F.3, a full refund of any
      money paid for a work or a replacement copy, if a defect in the
      electronic work is discovered and reported to you within 90 days
      of receipt of the work.
 
-- You comply with all other terms of this agreement for free
+-You comply with all other terms of this agreement for free
      distribution of Project Gutenberg-tm works.
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
@@ -10677,7 +10682,7 @@ property infringement, a defective or damaged disk or other medium, a
 computer virus, or computer codes that damage or cannot be read by
 your equipment.
 
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES -Except for the "Right
 of Replacement or Refund" described in paragraph 1.F.3, the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
 Gutenberg-tm trademark, and any other party distributing a Project
@@ -10691,7 +10696,7 @@ LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
 INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 DAMAGE.
 
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND -If you discover a
 defect in this electronic work within 90 days of receiving it, you can
 receive a refund of the money (if any) you paid for it by sending a
 written explanation to the person you received the work from.  If you
@@ -10717,7 +10722,7 @@ interpreted to make the maximum disclaimer or limitation permitted by
 the applicable state law.  The invalidity or unenforceability of any
 provision of this agreement shall not void the remaining provisions.
 
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+1.F.6.  INDEMNITY -You agree to indemnify and hold the Foundation, the
 trademark owner, any agent or employee of the Foundation, anyone
 providing copies of Project Gutenberg-tm electronic works in accordance
 with this agreement, and any volunteers associated with the production,
